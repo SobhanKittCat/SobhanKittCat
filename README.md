@@ -1,3 +1,6 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&width=700&lines=Python+%7C+Scikit--learn+%7C+Pytorch;Machine+Learning+%7C+Data+Analysis;Java+Script+%7C+Tailwind+CSS;Game+Development+%7C+Unity"/>
+
+##
 <h1 align="center">Hey, I'm Sobhan 👋</h1>
 
 <p align="center">
